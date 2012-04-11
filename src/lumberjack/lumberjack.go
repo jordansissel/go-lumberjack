@@ -1,5 +1,0 @@
-package lumberjack
-
-func main() {
-
-}
